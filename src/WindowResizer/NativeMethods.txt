@@ -1,0 +1,7 @@
+﻿GetWindowText
+GetWindowThreadProcessId
+EnumWindows
+OpenProcess
+GetModuleBaseName
+CloseHandle
+SetWindowPos
